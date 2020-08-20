@@ -1,4 +1,4 @@
-Project Title
+# Project Title
 Design custom mpages for EAMC
 
 Getting Started
