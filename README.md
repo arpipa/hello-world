@@ -1,5 +1,5 @@
 # Project Title
-Design custom mpages for EAMC
+Design custom mpages for EAMC with project board and issues
 
 # Getting Started
 The startup instructions are pending
